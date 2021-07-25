@@ -17,9 +17,9 @@ Management has assigned the following tasks to gain insights on the aging workfo
  	- [Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/titles.csv)
 - Created Data Tables
  	- [Mentorship Eligibility](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv)
- 	- [Retirement Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/retirement_titles.csv)
- 	- [Retiring Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_titles.csv)
- 	- [Unique Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/unqiue_titles.csv)
+ 	- [Retirement Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Data/retirement_titles.csv)
+ 	- [Retiring Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.csv)
+ 	- [Unique Titles](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Data/unique_titles.csv)
 - Query
 	- [EE DB Challenge Query](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_Challenge.sql)
 - Software: pgAdmin 4 version 5.2
