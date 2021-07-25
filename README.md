@@ -49,3 +49,4 @@ Management has assigned the following tasks to gain insights on the aging workfo
 	- After digging deeper, the assignment did not require a filter on current employees to determine the amount of employees that are at retirement age, the following table and query show that analysis
 	- [Retiring_Titles_Current_Only](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/salaries.csv)
  	- [Current_Retiring_Titles_Query](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Queries/current.sql)
+ 	- An additional query was used in the results section above to show count by eligible mentor tile
