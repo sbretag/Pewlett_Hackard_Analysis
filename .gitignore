@@ -1,3 +1,18 @@
+# Archived files
+Queries/queries.sql
+Queries/schema.sql
+EmployeeDB.png
+Schema_Code_MgrDB.txt
+Resources/current_emp.csv
+Resources/dept_info.csv
+Resources/emp_info.csv
+Resoucres/maanger_info.csv
+Resources/retirement_count_bydept.csv
+Resources/retirement_info.csv
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
