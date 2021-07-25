@@ -43,7 +43,9 @@ Management has assigned the following tasks to gain insights on the aging workfo
 
 ## Summary
 
--  Looking at the impact to the overall district, because the removal of Thomas High School 9th grader scores reduced the average reading and math scores, it's safe to say that the scores removed were better than the overall average of all other scores
--  Looking at the impact to Thomas High School math scores, the scores removed from the analysis were better than the average math score given the average reduced
--  Looking at the impact to Thomas High School reading scores, the scores removed from the analysis were worse than the average due to the scores improving from the original
--  Looking at the impact to Thomas High School passing percentages, the % passing for math, reading, and overall all reduced after removing the 9th grader scores, therefore it's safe to say that the scores removed had a higher % of passing scores than the rest of the students at THS.  Furthermore, since THS has the second best overall passing % scores amongst all the schools, the scores removed had some the highest % of passing scores than all other school which could be reason to investigate further 
+-  In the next few years, over 90,000 positions will need be filled assuming employees all retire at retiring age
+-  Based on amount of employees retiring, there are not enough employees eligible for the mentorship program (1,549) to train the next generation employees that will be filling positions left by retirees.  The eligibility requirements for the mentorship program will need to be expanded in addition to making a significant investment in recruiting.
+-  Additional analysis
+	- After digging deeper, the assignment did not require a filter on current employees to determine the amount of employees that are at retirement age, the following table and query show that analysis
+	- [Retiring_Titles_Current_Only](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/salaries.csv)
+ 	- [Current_Retiring_Titles_Query](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Queries/current.sql)
