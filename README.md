@@ -9,7 +9,7 @@ Management has assigned the following tasks to gain insights on the aging workfo
 
 ## Resources
 - Orignal Data Source
- - [Departments](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/departments.csv)
+	- [Departments](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/departments.csv)
  - [Dept_Emp](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/dept_emp.csv)
  - [Dept_Mgr](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/dept_manager.csv)
  - [Employees](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/employees.csv)
