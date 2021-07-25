@@ -28,9 +28,9 @@ Management has assigned the following tasks to gain insights on the aging workfo
 
 1. Over 35% of employees in the database are at retiring age
 2. Large amount of Senior positions retiring
-![](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/Retiring_Titles_Senior_Output_Sample.png)
+	![](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/Retiring_Titles_Senior_Output_Sample.png)
 - Over 60% of employees at retiring age have a senior position
-3. 
+4. 
 
 
 3.
