@@ -28,33 +28,18 @@ Management has assigned the following tasks to gain insights on the aging workfo
 
 1. Over 35% of employees in the database are at retiring age
 
-2. Large amount of Senior positions retiring
+2. Over 60% of employees at retiring age have a senior position
 
 ![](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/Retiring_Titles_Senior_Output_Sample.png)
 
-- Over 60% of employees at retiring age have a senior position
+3. There are only 1,549 employees eligible for mentorship based on current guidelines
 
-4. 
+![](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/Mentorship_Eligibility_Count.png)
 
+4. Over 70% of mentorship eligible employee are in senior positions
 
-3.
+![](https://github.com/sbretag/Pewlett_Hackard_Analysis/blob/main/Resources/Mentorship_Eligibility_CountbyTitle.png)
 
-
-4.
-### Impact on District Summary
-
-#### Original District Summary
-![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_District_Summary.png)
-
-#### New District Summary
-![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/New_District_Summary.png)
-
-#### New vs Original District Summary
-- No change to total schools, total students or total budget as only the scores were removed for Thomas High School (THS) 9th graders.  The students were still included in the total student count.
- - Average math and average reading scores dropped by 6 basis points (bps) and 2 bps respectively
- - % Passing Math and % Passing Reading dropped 22 and 15 bps resepectively
- - Overall passing % dropped by 31 bps
-- Given the drop in all scoring categories, the scores removed were better than the overall district scores however the differences are fairly immaterial as the overall passing % rounds to 65% in both scenarios  
 
 ## Summary
 
